@@ -1,2 +1,3 @@
 # flexBox
-A simple flexbox project &lt;br /> Deployment: 
+A simple flexbox project <br /> 
+Deployment: 
