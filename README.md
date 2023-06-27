@@ -1,3 +1,3 @@
 # flexBox
 A simple flexbox project <br /> 
-Deployment: 
+Deployment: https://boltx393.github.io/flexBox/
